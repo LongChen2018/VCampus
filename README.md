@@ -6,7 +6,7 @@ VCampus是一款基于C/S架构的软件，主要模拟了东南大学校内与�
 
 本项目是东南大学大三短学期的软件实践课程项目，开发者由东南大学计算机科学与工程学院六名大三学生组成。欢迎访问他们的Github页面：
 
-[z0gSh1u](https://github.com/z0gSh1u)，[LongChen2018](https://github.com/LongChen2018)，[LY000001](https://github.com/LY000001)，[ZCLK2019](https://github.com/ZCLK2019)，[shilofel](https://github.com/shilofel)，[Twileon](https://github.com/Twileon)
+[z0gSh1u](https://github.com/z0gSh1u)，[Withod](https://github.com/Withod)，[LY000001](https://github.com/LY000001)，[ZCLK2019](https://github.com/ZCLK2019)，[shilofel](https://github.com/shilofel)，[Twileon](https://github.com/Twileon)
 
 ## 开始
 
